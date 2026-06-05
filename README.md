@@ -73,6 +73,7 @@ Aplikasi secara otomatis mencoba mirror pertama, jika gagal akan fallback ke mir
 A: Tidak! Aplikasi menggunakan mirror server yang tidak memerlukan autentikasi.
 
 **Q: Apakah file .osz otomatis muncul di osu!?**
+
 A: Ya, cukup buka/restart osu! dan beatmap baru akan otomatis diimport.
 
 **Q: Download gagal terus, kenapa?**
@@ -80,3 +81,17 @@ A: Kemungkinan rate limiting dari mirror server. Coba kurangi jumlah download pa
 
 **Q: Bisa download koleksi lebih dari 1000 beatmap?**
 A: Bisa! Tapi disarankan download bertahap untuk menghindari rate limiting.
+
+
+## Tujuan Proyek
+
+Proyek ini dibuat sebagai sarana pembelajaran dan eksplorasi dalam bidang:
+
+- Pengembangan aplikasi desktop
+- Integrasi API
+- Otomasi proses download
+- Manajemen file
+- Pengolahan data dari web service
+- Implementasi alur kerja berbasis workflow
+
+Selain itu, aplikasi ini juga menjadi solusi praktis untuk mempercepat proses pengumpulan beatmap dari osu!Collector ke dalam osu! (karena tidak ada dana untuk donate osu!collector).
